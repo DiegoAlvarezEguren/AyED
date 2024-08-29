@@ -1,3 +1,3 @@
 # AyED
-#Nombre: Diego Alvarez Eguren
-#Comision: K1102
+Nombre: Diego Alvarez Eguren
+Comision: K1102
